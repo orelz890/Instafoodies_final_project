@@ -1,7 +1,7 @@
-[submodule "App/App"]
-    path = App/App
+[submodule "App"]
+    path = App
     url = https://github.com/orelz890/InstaFoodies.git
 
-[submodule "Server/server"]
-    path = Server/server
+[submodule "server"]
+    path = server
     url = https://github.com/orelz890/InstaFoodies_server.git
