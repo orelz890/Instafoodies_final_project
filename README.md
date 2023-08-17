@@ -59,3 +59,6 @@ The application will be developed using the Model-View-ViewModel (MVVM) architec
 InstaFoodies is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this software while respecting the terms of the license.
 
 Join us on InstaFoodies, where the joy of cooking meets the power of social connection! 🍳📸🥗
+
+
+---
