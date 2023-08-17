@@ -1,3 +1,0 @@
-[submodule "backend/server"]
-    path = backend/server
-    url = https://github.com/orelz890/InstaFoodies_server
