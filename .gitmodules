@@ -1,6 +1,6 @@
 [submodule "App"]
-	path = App
+	path = App/App
 	url = https://github.com/orelz890/InstaFoodies.git
 [submodule "server"]
-	path = server
+	path = Server/server
 	url = https://github.com/orelz890/InstaFoodies_server.git
