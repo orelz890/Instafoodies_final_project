@@ -21,11 +21,11 @@ For detailed code and documentation, please refer to the individual repositories
 
 ## 📋 System Overview
 
-The recipe-sharing application is a social media platform for users to share and discover new posts with or without recipes.
+The recipe-sharing application is a vibrant social hub where users weave a culinary tapestry, sharing and unearthing posts both with and without recipes. A canvas for creativity, it empowers users to craft and exchange gastronomic gems, fostering connections and friendships along the way.
 
-Users are able to create and share recipe posts, follow other users, search for recipes, have a weekly recipe plan or a cart list that they can export as a WhatsApp message for their convenience, and receive notifications.
+Beyond personal joy, it offers a realm of commerce where businesses can curate content, potentially monetizing their culinary expertise. With a feature-rich toolkit, users gather and cherish recipes, translating digital inspiration into tangible delights. In a world where notifications echo like culinary whispers, this platform cultivates a journey of flavors, from novice to connoisseur.
 
-The application also has a user-friendly interface that allows for easy navigation and interaction.
+It also has a user-friendly interface that allows for easy navigation and interaction.
 
 ---
 
@@ -39,11 +39,19 @@ The application also has a user-friendly interface that allows for easy navigati
 
 ### Architectural Design
 
-The application will be developed using the Model-View-ViewModel (MVVM) architectural pattern, which allows for the separation of concerns and easy maintenance of the codebase.
+The application developed using the Model-View-ViewModel (MVVM) architectural pattern, which allows for the separation of concerns and easy maintenance of the codebase.
 
 - **Model:** Includes both the communication logic for interacting with the server and the logic for handling data from the server.
 - **View:** Android UI, layouts, and user interface elements.
 - **ViewModel:** Handles the preparation of data from the Model for the UI and contains UI-related logic.
+
+---
+
+
+###  Project Management Approach
+
+We embraced Scrum, an agile project management framework, to efficiently manage our project's development. Our daily standup meetings promoted team synchronization, progress sharing, and issue resolution. Guided by a dedicated Scrum Master, we ensured adherence to Scrum principles, rapid obstacle removal, and a culture of continuous improvement.
+
 
 ---
 
