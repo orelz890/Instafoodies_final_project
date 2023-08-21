@@ -31,6 +31,12 @@ The application also has a user-friendly interface that allows for easy navigati
 
 ## 🏗️ System Architecture
 
+| Start Nginx Load Balancer |
+| :---: |
+| <img src="pics/system_architecture.png" alt="system_architecture" width="700" /> |
+
+---
+
 ### Architectural Design
 
 The application will be developed using the Model-View-ViewModel (MVVM) architectural pattern, which allows for the separation of concerns and easy maintenance of the codebase.
