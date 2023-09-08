@@ -73,7 +73,7 @@ We embraced Scrum, an agile project management framework, to efficiently manage 
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). This means that you are free to share, adapt, and build upon the material, as long as you provide appropriate attribution, do not use the material for commercial purposes, and do not impose additional legal restrictions.
 
-Please note that this license is designed to prevent commercial usage of the code. If you have any questions about how you can use or adapt this code within the terms of the license, feel free to [contact us](mailto:your.email@example.com) 📮.
+Please note that this license is designed to prevent commercial usage of the code. If you have any questions about how you can use or adapt this code within the terms of the license, feel free to contact us via email smarterfoodies@gmail.com 📮.
 
 ## 📬 Contact
 
