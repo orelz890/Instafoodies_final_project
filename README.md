@@ -29,6 +29,32 @@ It also has a user-friendly interface that allows for easy navigation and intera
 
 ---
 
+## Human Interface Design
+
+Our UI is a canvas of user-centric design, harmoniously merging aesthetics and functionality to craft an unparalleled experience.
+
+Key screens include:
+
+## Table of Contents
+
+| Login | Register | Feed |
+| :---: | :---: | :---: |
+| <img src="pics/login.jpg" alt="login" width="250" /> |<img src="pics/register.jpg" alt="register" width="250" />  | <img src="pics/feed.jpg" alt="feed" width="250" /> |
+
+| Post | Comments | Scraping |
+| :---: | :---: | :---: |
+|  <img src="pics/post.jpg" alt="post" width="250" />  | <img src="pics/comments.jpg" alt="comments" width="250" /> | <img src="pics/scraping.png" alt="scraping" width="250"  /> |
+
+| Networking | Chat Requests | Chat |
+| :---: | :---: | :---: |
+|<img src="pics/chats.png" alt="chats" width="250" />| <img src="pics/requests.jpg" alt="requests" width="250" /> | <img src="pics/chat.jpg" alt="chat" width="250" /> |
+
+
+| Notifications | Search | Payment |
+| :---: | :---: | :---: |
+| <img src="pics/notifications.jpg" alt="notifications" width="250" /> | <img src="pics/search.jpg" alt="search" width="250" /> | <img src="pics/payment.png" alt="payment" width="250" /> |
+
+
 ## 🏗️ System Architecture
 
 | Start Nginx Load Balancer |
